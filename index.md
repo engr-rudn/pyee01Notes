@@ -233,7 +233,7 @@ CONTACT EMAIL ADDRESS
 
 Display the contact email address set in the configuration file.
 {% endcomment %}
-<p id="contact">
+<!--p id="contact">
   <strong>Contact:</strong>
   Please email
   {% if page.email %}
@@ -251,13 +251,13 @@ Display the contact email address set in the configuration file.
   to-be-announced
   {% endif %}
   for more information.
-</p>
+</p-->
 
-<p id="roles">
+<!--p id="roles">
   <strong>Roles:</strong>
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
-</p>
+</p-->
 
 {% comment %}
 WHO CAN ATTEND?

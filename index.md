@@ -214,6 +214,8 @@ special instructions.
   get in touch (using contact details below) and we will
   attempt to provide them.
 {% else %}
+ </p>
+ <p>
  <strong>MS Teams</strong> is our general environment for the online course​
 </p>
 <p> ~ video-lectures, tests & assignments, class materials​</p>

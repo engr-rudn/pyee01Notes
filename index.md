@@ -227,7 +227,7 @@ special instructions.
 <p><strong>Earth Engine</strong> is our <strong>Big Data</strong> environment​</p>
 <p>~ Labs and Homework​</p>
 <p>~ use your <strong>@gmail.com</strong> account​</p>
-<p>~ REQUEST ACCESS TODAY: <a href="signup.earthengine.google.com">Sign up for EarthEngine</a>​</p>
+<p>~ REQUEST ACCESS TODAY: <a href="https://signup.earthengine.google.com">Sign up for EarthEngine</a>​</p>
 {% endif %}
 
 {% comment %}

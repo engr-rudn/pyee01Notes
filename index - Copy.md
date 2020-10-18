@@ -186,7 +186,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> You must have a laptop or a desktop computer with a
+  <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
@@ -214,18 +214,10 @@ special instructions.
   get in touch (using contact details below) and we will
   attempt to provide them.
 {% else %}
- <strong>MS Teams</strong> is our general environment for the online course​
+  We are dedicated to providing a positive and accessible learning environment for all. Please
+  notify the instructors in advance of the workshop if you require any accommodations or if there is
+  anything we can do to make this workshop more accessible to you.
 </p>
-<p> ~ video-lectures, tests & assignments, class materials​</p>
-<p> use your <strong>@rudn.ru</strong> account
-</p>
-<p>Colab is our lab environment </p>
-<p>~ Labs and Homework​</p>
-<p>~ use your <strong>@gmail.com</strong> account​</p>
-<p><strong>Earth Engine</strong> is our <strong>Big Data</strong> environment​</p>
-<p>~ Labs and Homework​</p>
-<p>~ use your @gmail.com account​</p>
-<p>~ REQUEST ACCESS TODAY: <a href="signup.earthengine.google.com">Sign up for EarthEngine</a>​</p>
 {% endif %}
 
 {% comment %}

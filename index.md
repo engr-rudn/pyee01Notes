@@ -217,14 +217,14 @@ special instructions.
  <strong>MS Teams</strong> is our general environment for the online course​
 </p>
 <p> ~ video-lectures, tests & assignments, class materials​</p>
-<p> use your <strong>@rudn.ru</strong> account
+<p> ~ use your <strong>@rudn.ru</strong> account
 </p>
-<p>Colab is our lab environment </p>
+<p><strong>Colab</strong> is our <strong>lab</strong> environment </p>
 <p>~ Labs and Homework​</p>
 <p>~ use your <strong>@gmail.com</strong> account​</p>
 <p><strong>Earth Engine</strong> is our <strong>Big Data</strong> environment​</p>
 <p>~ Labs and Homework​</p>
-<p>~ use your @gmail.com account​</p>
+<p>~ use your <strong>@gmail.com</strong> account​</p>
 <p>~ REQUEST ACCESS TODAY: <a href="signup.earthengine.google.com">Sign up for EarthEngine</a>​</p>
 {% endif %}
 

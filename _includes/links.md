@@ -10,7 +10,7 @@
 [cran-checkpoint]: https://cran.r-project.org/package=checkpoint
 [cran-knitr]: https://cran.r-project.org/package=knitr
 [cran-stringr]: https://cran.r-project.org/package=stringr
-[dc-lessons]: http://www.datacarpentry.org/lessons/
+[dc-lessons]: https://engr-rudn.github.io/pyee01Notes/lessons/
 [email]: mailto:team@carpentries.org
 [github-importer]: https://import.github.com/
 [importer]: https://github.com/new/import
